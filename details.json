@@ -10,5 +10,9 @@
     "3": {
         "name": "Simple Kanban",
         "time taken": "24"
+    },
+    "4": {
+        "name": "Expense Tracker",
+        "time taken": "55"
     }
 }
