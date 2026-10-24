@@ -18,5 +18,9 @@
     "5": {
         "name": "Bookmark Saver",
         "time taken": "23"
+    },
+    "6": {
+        "name": "Registration Form Validator",
+        "time taken": "34"
     }
 }
